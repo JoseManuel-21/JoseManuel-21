@@ -1,7 +1,7 @@
 # Jose Manuel Sanchez Rodriguez
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=00A86B&center=true&vCenter=true&width=700&lines=Software+Developer+%26+IoT+Enthusiast;Backend+%7C+Embedded+Systems+%7C+Frontend;ESP32+%7C+React+%7C+Node.js+%7C+MongoDB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=00A86B&center=true&vCenter=true&width=750&lines=Software+Developer,+IoT+%26+IT+Enthusiast;Backend+%7C+Embedded+Systems+%7C+Frontend+%7C+IT;ESP32+%7C+React+%7C+Node.js+%7C+MongoDB" />
 </p>
 
 ---
