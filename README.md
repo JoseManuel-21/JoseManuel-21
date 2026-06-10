@@ -49,6 +49,18 @@ Currently pursuing a degree in Computer Systems Engineering with a specializatio
 
 ---
 
+## Professional Experience
+
+### IT Support & Infrastructure — CFE (Comisión Federal de Electricidad)
+*~1 Year Experience*
+
+* **Network Configuration:** Configured and managed network infrastructure, including switches and routers.
+* **IT Maintenance & Support:** Executed preventive maintenance for IT hardware and resolved technical support tickets efficiently.
+* **Customer Service:** Provided direct technical assistance and troubleshooting for users.
+* **Asset Management:** Administered and maintained accurate tracking of the IT equipment inventory.
+
+---
+
 ## Featured Projects
 
 ### Air Quality Monitoring Application — Eco-Sense
