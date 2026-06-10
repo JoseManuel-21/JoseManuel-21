@@ -20,7 +20,7 @@ Currently pursuing a degree in Computer Systems Engineering with a specializatio
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,kotlin,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,kotlin,cpp,c" />
 </p>
 
 ### Frontend & Backend
